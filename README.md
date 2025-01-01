@@ -1,3 +1,6 @@
+Sure! Here's a `README.md` for your Snake game project that you can use on GitHub.
+
+```markdown
 # Snake Game in Python
 
 A simple implementation of the classic Snake game using Python and the `pygame` library. The game features a snake that grows longer each time it eats food, and the player must avoid hitting the walls or the snake's own body.
@@ -35,3 +38,45 @@ To install `pygame`, run the following command:
 
 ```bash
 pip install pygame
+```
+
+## How to Run the Game
+
+1. **Clone this repository**:
+
+   ```bash
+   git clone https://github.com/shuchijahan/Snake-Game.git
+   cd Snake-Game
+   ```
+
+2. **Run the Python script**:
+
+   ```bash
+   python snake_game.py
+   ```
+
+   The game window will open, and you can start playing!
+
+## Game Controls
+
+- **Arrow Keys**: Control the snake's direction.
+- **Q**: Quit the game after losing.
+- **C**: Start a new game after losing.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- The game is built using the `pygame` library, which is a great tool for creating games with Python.
+- Special thanks to the open-source community for the support and resources!
+
+## Screenshot
+
+![Snake Game Screenshot](screenshot.png)
+
+---
+
+Enjoy playing the Snake game! 🐍
+```
